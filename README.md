@@ -60,6 +60,3 @@ Each directory within this repository corresponds to a specific set of exercises
 5. Commit and Push: After completing the exercises and ensuring they pass the tests, commit your changes and push them to your forked repository.
 
 Feel free to explore and contribute to this repository by adding your own solutions or improvements. Happy coding!
-```
-
-You can use this README file in your forked repository to provide clear instructions for others who want to explore your solutions to The Odin Project's Ruby exercises.
